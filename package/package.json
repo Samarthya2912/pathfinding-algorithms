@@ -1,0 +1,30 @@
+{
+  "name": "pathfinding-algorithms",
+  "version": "1.0.0",
+  "description": "A package for implementing pathfinding algorithms for web apps that need some kind of path finding, maze solving. Supports both weighted and unweighted algos.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samarthya2912/pathfinding-algorithms.git"
+  },
+  "keywords": [
+    "pathfinding",
+    "maze",
+    "djikstra",
+    "astar",
+    "dfs",
+    "bfs",
+    "graph",
+    "graphs"
+  ],
+  "author": "Samarthya Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samarthya2912/pathfinding-algorithms/issues"
+  },
+  "homepage": "https://github.com/Samarthya2912/pathfinding-algorithms#readme"
+}
