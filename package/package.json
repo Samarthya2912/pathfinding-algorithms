@@ -1,6 +1,6 @@
 {
   "name": "pathfinding-algorithms",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A package for implementing pathfinding algorithms for web apps that need some kind of path finding, maze solving. Supports both weighted and unweighted algos.",
   "main": "index.js",
   "type": "module",
